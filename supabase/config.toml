@@ -1,0 +1,10 @@
+project_id = "uckxnbhjxggrcqgfotxf"
+
+[functions.auth-login]
+verify_jwt = false
+
+[functions.scan-file]
+verify_jwt = false
+
+[functions.admin-files]
+verify_jwt = false
